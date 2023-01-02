@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @pefad
-- 👀 I’m interested in website design and development...
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on app development...
-- 📫 How to reach me, you can reach me on whatsapp through +2349030252139 ...
-
-<!---
-pefad/pefad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m peter
+- 👀 I’m a full stack website developer...
+-I offer a world-class service that is unrivaled in terms of quality,
+affordability, and reliability.
+My team of experts has years of experience in the field and we are committed to providing 
+our clients with the best possible service. 
+- 📫 How to reach me, you can reach me on whatsapp through +2349030252139
+Or shoot me through 📩 <a href="mailto:fadiranpeteropeyemi@gmail.com">EMAIL</a>
+Or Get in touch on 🔊<a href="https://www.linkedin.com/in/fadiran-peter-opeyemi-64362623a">LinkedIn</a>  ...
+Thanks for reviewing my profile. 
+Don't take my job outside. 
+I will offer you the best design and development.
